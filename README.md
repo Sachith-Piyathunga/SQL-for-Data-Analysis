@@ -30,3 +30,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/sql-for-data-analysis-22645200?dApp=59033956&leis=LAA
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHW625ALPsQSQ/learning-public-crop_288_512/0/1689272470053?e=2147483647&v=beta&t=m-nlhw9I-NHTiW837dreat8J-H8Hhzrqv_bDBN3edVs
+
+
+  - My name is Sachintha and this is the official SQL Linekedin certificate course.
